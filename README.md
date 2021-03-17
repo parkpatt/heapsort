@@ -1,5 +1,5 @@
 # heapsort
-An implementation of heapsort in C
+An implementation of heapsort in C \n
 Copyright 2021, Parker Patterson, All rights reserved.
 
 # COMPILATION
